@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@source "../views";
+@plugin "daisyui";
+
+
+@plugin "daisyui" {
+  themes: all;
+}
